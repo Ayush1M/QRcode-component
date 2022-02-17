@@ -6,42 +6,37 @@ body{
     padding: 0;
 }
 
-.structure{
-    background-color: white;
-    height: 440px;
-    width: 330px;
-    margin: 50px auto;
-    padding-top: 15px;
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-bottom: 50px;
-    border-radius: 12px;
+.container{
+    display: flex;
+    flex-direction: column;
     text-align: center;
+    align-items: center;
+    height: auto;
+    width: 20%;
+    margin: 9.3rem auto;
+    background-color: white;
+    padding: 1.1rem ;
+    border-radius: 1.2rem;   
 }
 
 .image img{
-    margin: 0;
-    height: 300px;
-    width: 315px;
-    border-radius: 10px;
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border-radius: 1.2rem;
 }
 
-.about .heading1{
-    color: hsl(218, 44%, 22%);
-    margin-top: 12px;
+.about h2{
+    color:hsl(218, 44%, 22%);
     margin-bottom: 0;
-}
-
-.about .heading2{
-    color: hsl(218, 44%, 22%);
-    margin-bottom: 12px;
-    margin-top: 0;
+    padding: .5rem;
+    margin-top: .9rem;
 }
 
 .about p{
-    color: hsl(220, 15%, 55%);
-    font-size: 15px;
-    margin: 0;
-    word-spacing: 2px;
-    text-align: center;
+    color:hsl(220, 15%, 55%);
+    padding: 1rem;
+    word-spacing: 1px;
+    margin-top: 0;
+    margin-bottom: 0;
 }
