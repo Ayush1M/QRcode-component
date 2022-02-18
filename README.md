@@ -22,7 +22,7 @@ The goal is to learn the basics of semantic HTML5 and CSS and also very good pro
 ![](./desktop-design.jpg)
 
 ### My solution
-![](./QRcode Component.png)
+![](./QRcode-Component.png)
 
 
 ## Technologies I Used
