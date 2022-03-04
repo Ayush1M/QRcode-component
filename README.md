@@ -18,10 +18,7 @@ The goal is to learn the basics of semantic HTML5 and CSS and also very good pro
 
 ## Screenshot
 
-### Design
-![](./desktop-design.jpg)
-
-### My solution
+### Solution
 ![](./QRcode-Component.png)
 
 
@@ -35,4 +32,4 @@ The goal is to learn the basics of semantic HTML5 and CSS and also very good pro
 
 
 ## Acknowledgment
-   My acknowledgements goes out to everyone who provided the solution to the challenge and also help me find new ways to solve the challenge.
+   My acknowledgements goes out to everyone who provided the feedback to my solution. It helped me find new ways to solve the challenge.
